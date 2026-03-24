@@ -313,5 +313,11 @@ footer {
 .btn-enviar-encuesta:hover {
     background-color: #1a3c34; 
 }
+.footer-logo {
+    height: 80px; /* Tamaño pequeño para que no compita con el nombre */
+    width: auto;
+    opacity: 0.9; /* Un toque de transparencia para que sea sutil */
+    transition: 0.3s;
+}
 
 
